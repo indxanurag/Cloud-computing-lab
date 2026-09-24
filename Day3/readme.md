@@ -12,4 +12,4 @@ Task\
 • Mininet\
 • Create Network Topology on each type with 2 different type of node numbers.\
 • See links and ping with basic Linux networking commands\
-• After completion, stop the network\
+• After completion, stop the network
